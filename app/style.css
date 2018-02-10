@@ -154,7 +154,7 @@ textarea:focus {
    3. Section Header                 
 ========================================= */
 header {
-	background: url(images/bg.jpg) 50% 0 no-repeat fixed;
+	background: url(images/back.jpg) 50% 0 no-repeat fixed;
 	background-size: cover;
 }
 .top .photo-slide {
@@ -223,8 +223,8 @@ header {
 	line-height: 35px;
 }
 .navigation .navbar-default {
-	background-color: #181B3D;
-	box-shadow: 0 0px 10px rgba(0,0,0,.2);
+	background-color: #387efe;
+	box-shadow: 0 0px 10px #387efe;
 	border: none;
 	border-radius: 0;
 	clear: both;
@@ -241,7 +241,7 @@ header {
 .navigation .navbar-default .navbar-nav>.active>a:hover,
 .navigation .navbar-default .navbar-nav>.active>a:focus {
  	background: none;
- 	color: #0099FF;
+ 	color: #00ffff;
  }
 .navigation .btn-default:hover,
 .navigation .btn-default:focus,
@@ -316,8 +316,7 @@ header {
 	margin: 0 10px;
 }
 .owl-carousel .item img {
-	border:5px solid #ccc;
-	border-radius: 5px;
+
 }
 .owl-theme .owl-controls{
 	margin-top: 25px;
